@@ -2,29 +2,31 @@
   {
     "id": "1",
     "title": "metr samir",
+    "episode": "1",
+    "posterUrl": "https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/03/06/thumbs/600x600/1662085.jpg",
+    "videoUrl": "https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/07/10911/pbwrwhv7vcdw_h/master.m3u8?t=Kkyx8lXiqfseI8-o2mHZicNsHgclQztBotZ6P8viXLQ&s=1773191785&e=10800&f=54557173&srv=1075&asn=8452&sp=4000&p=0"
+  },
+  {
+    "id": "2",
+    "title": "metr samir",
+    "episode": "2",
+    "posterUrl": "https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/03/06/thumbs/600x600/1662085.jpg",
+    "videoUrl": "https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/05/10911/muoyi9w0u1fk_h/master.m3u8?t=Ty4oz4I4kiaUxfpCg923JnDzWEo_UXSjQK7dyrv5Wro&s=1773191911&e=10800&f=54557183&srv=1070&asn=8452&sp=4000&p=0"
+  },
+  {
+    "id": "3",
+    "title": "metr samir",
+    "episode": "3",
+    "posterUrl": "https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/03/06/thumbs/600x600/1662085.jpg",
+    "videoUrl": "https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/09/10915/p70615mtnjqq_h/master.m3u8?t=pepJ3Mq_KH4B_qR3rq-ZLVkWw47-yNtGVzXk16-dwCU&s=1773191965&e=10800&f=54578374&srv=1075&asn=8452&sp=4000&p=0"
+  },
+
+  {
+    "id": "4",
+    "title": "metr samir",
     "episode": "4",
     "posterUrl": "https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/03/06/thumbs/600x600/1662085.jpg",
     "videoUrl": "https://ramdan3dffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00118/xiuk7s5mwxg8_,l,h,.urlset/master.m3u8?t=eNw0ux0gernBACu7MDuncY0IwpeEMZrWCc-s6aFCco8&s=1773189966&e=43200&f=590408&i=0.0&sp=0"
   },
-  {
-    "id": "2",
-    "title": "Attack on Titan",
-    "episode": "2",
-    "posterUrl": "https://example.com/posters/aot_ep2.jpg",
-    "videoUrl": "https://example.com/videos/aot_ep2.mp4"
-  },
-  {
-    "id": "3",
-    "title": "Attack on Titan",
-    "episode": "3",
-    "posterUrl": "https://example.com/posters/aot_ep3.jpg",
-    "videoUrl": "https://example.com/videos/aot_ep3.mp4"
-  },
-  {
-    "id": "4",
-    "title": "Jujutsu Kaisen",
-    "episode": "1",
-    "posterUrl": "https://example.com/posters/jjk_ep1.jpg",
-    "videoUrl": "https://example.com/videos/jjk_ep1.mp4"
-  }
+
 ]
