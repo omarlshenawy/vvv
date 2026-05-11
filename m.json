@@ -1,13 +1,13 @@
 [
   {
     "title": "bein 3",
-    "episode": "l",
+    "episode": "live",
     "posterUrl": "1",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "elserb",
-    "episode": "m",
+    "episode": "",
     "posterUrl": "1",
     "videoUrl": "https://strm1.uqload.is/hls/3rfk5wtu4zw2q4drdjopt47wlzyqqt5cluvjt5z7chsfi64guslif77h3p5q/index-v1-a1.m3u8"
   },
@@ -103,13 +103,13 @@
   },
   {
     "title": "Nickelodeon",
-    "episode": "l",
+    "episode": "live",
     "posterUrl": "1",
     "videoUrl": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
   },
   {
     "title": "Nickelodeon classic",
-    "episode": "l",
+    "episode": "live",
     "posterUrl": "1",
     "videoUrl": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8"
   }
