@@ -1,13 +1,13 @@
 [
   {
     "title": "bein 3",
-    "episode": "",
+    "episode": "l",
     "posterUrl": "1",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "bein 2 spare",
-    "episode": "",
+    "episode": "m",
     "posterUrl": "1",
     "videoUrl": "https://20syrialive.s3.us-east-2.amazonaws.com/bein2/bein2_360p/index.m3u8"
   },
