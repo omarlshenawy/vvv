@@ -1,15 +1,15 @@
 [
   {
-    "title": "egy x bel 11",
+    "title": "egy x bel 1",
     "episode": "live",
     "posterUrl": "1",
-    "videoUrl": "https://live.kooran20.cfd/tist2/index.m3u8"
+    "videoUrl": "https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_960x540_2000k.m3u8"
   },
   {
     "title": "egy x bel 2",
     "episode": "live",
     "posterUrl": "1",
-    "videoUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6O0B3iyoy-cVzGuZQgQ_MF1XS5Y4dBrkqPewzMVzZQfCNKgZlOriGxh18LAqfbazSKD4UHP2av-opIP9zut3Tw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+    "videoUrl": "https://live.kooran18.cfd/tist1/index.m3u8"
   },
   {
     "title": "egy x bel 3",
